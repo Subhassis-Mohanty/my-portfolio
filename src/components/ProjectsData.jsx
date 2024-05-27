@@ -14,7 +14,7 @@ const ProjectsData = (props) => {
   return (
 
     <>
-    <div className=" w-auto px-8 h-auto py-10 rounded-lg shadow-xl flex flex-col bg-gradient-to-r from-slate-700 to-zinc-800 ">
+    <div className=" w-[60%] px-8 m-auto h-auto py-10 rounded-lg shadow-xl flex flex-col bg-gradient-to-r from-slate-700 to-zinc-800">
         <div className="w-full h-[80%] overflow-hidden rounded-lg">
               <img
                 src={props.image}
