@@ -51,7 +51,7 @@ return (
     <div
         onClick={() => setNav(!nav)}
         className=" cursor-pointer pr-4 z-10 text-gray-400 md:hidden"
-      >
+    >
         {nav ? <FaTimes size={25} /> : <FaBars size={25} />}
     </div>
 
