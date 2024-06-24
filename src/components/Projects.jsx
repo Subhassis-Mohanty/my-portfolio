@@ -68,14 +68,14 @@ const Projects = () => {
                 </button>
               </div>
 
-              <div className="mt-5 flex justify-center">
+              {/* <div className="mt-5 flex justify-center">
                 <button className="group text-stone-200 text-xl font-semibold w-fit px-6 py-2 my-2 text-center flex items-center rounded-lg bg-gradient-to-r from-fuchsia-700 to-rose-400 cursor-pointer">
                       See more
                     <span className="group-hover:rotate-90 duration-500">
                       <MdOutlineKeyboardArrowRight size={30} className="ml-1" />
                     </span>
                 </button>
-              </div>
+              </div> */}
           </div>
       </div>
     
