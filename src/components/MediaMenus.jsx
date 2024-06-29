@@ -38,7 +38,7 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
                 Resume <BsFillPersonLinesFill size={30} />
             </>
             ),
-            href: "/Subhasis Mohanty__Resume.pdf",
+            href: "/Subhasis_Mohanty__Resume2.pdf",
             style: "rounded-br-md",
             download: true,
         },
